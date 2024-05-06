@@ -1,0 +1,8 @@
+Tail recursion
+
+Pick ONE option -
+
+1. Occurs when the recursive call is the last statement executed in a recursive procedure or function (Correct Answer)
+2. is a path that includes a recursive call to the routine, to solve a smaller version of the original problem
+3. is a structure that keeps track of the activation records at run time in order to preserve the value of parameters, return addresses registers and so no
+4. refers to the point in the compile/execution cycle when variable names are associated with addresses in memory

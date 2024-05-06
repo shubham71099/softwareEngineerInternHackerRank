@@ -1,0 +1,8 @@
+code to find the CUSTOMER_ID of the customer who has placed the largest number of orders,if there is more 
+than one customer with the same number of orders, then print the one with the smallest CUSTOMER_ID
+
+SELECT CUSTOMER_ID
+FROM ORDERS
+GROUP BY CUSTOMER_ID
+ORDER BY COUNT(*) DESC, CUSTOMER_ID ASC
+LIMIT 1;

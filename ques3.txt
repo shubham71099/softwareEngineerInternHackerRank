@@ -1,0 +1,8 @@
+Which is the correct order of execution of operations in SQL?
+
+Pick ONE option
+
+SELECT, FROM, JOIN, WHERE, GROUP BY, HAVING, ORDER BY (Correct Answer)
+SELECT, FROM, GROUP BY, WHERE, HAVING, ORDER BY
+FROM, GROUP BY, WHERE, ORDER BY, HAVING, SELECT
+SELECT, FROM, GROUP BY, HAVING, WHERE, ORDER BY
